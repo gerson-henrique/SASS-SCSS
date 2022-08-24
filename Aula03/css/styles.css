@@ -1,0 +1,8 @@
+div, main {
+  background-color: #bbb;
+}
+div p, div h2, main p, main h2 {
+  color: #f00;
+}
+
+/*# sourceMappingURL=styles.css.map */
